@@ -1,0 +1,8 @@
+{
+  "name": "PURPLE",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:AsifNawaz2/Purple.git",
+  "author": "Asif Nawaz <asif.nawaz@infinikorn.com>",
+  "license": "MIT"
+}
